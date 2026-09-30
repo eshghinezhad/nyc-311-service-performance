@@ -1,2 +1,3 @@
-# nyc-311-service-performance
-City operations team: Which complaint types and areas have the worst response performance, and where should the team put more staff?
+# NYC 311 Service Performance
+   Which complaint types and areas are slowest to get resolved, and where should the city add staff?
+   Status: in progress
